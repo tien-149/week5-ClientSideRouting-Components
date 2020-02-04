@@ -1,0 +1,5 @@
+body { background-color: lightpink; color:#140994;
+}
+a{text-decoration: none;}
+label{ font-size:20px;display:block;}
+input[type="submit"] {display:block;}
